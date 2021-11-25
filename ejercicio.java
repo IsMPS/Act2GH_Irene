@@ -23,5 +23,6 @@ public class ejercicio{
             System.out.println(numero + " aparece " + contador + " vez/veces");
             numero ++;
         }
+        System.out.println("Isabel es una persona muy pro");
     }
 }
